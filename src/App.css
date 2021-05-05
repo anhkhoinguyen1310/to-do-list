@@ -11,6 +11,7 @@
     align-items: center;
     background: rgb(240, 238, 238);
     padding: 0;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/078/291/non_2x/crumpled-paper-background-free-photo.jpg");
 }
 
 .App h2{
@@ -23,7 +24,7 @@
     margin-top: 3rem;
     width: 50%;
     height: 80%;
-    background: #deeaee;
+    background: #eaece5;
     box-shadow: 0 0 5px 5px #ccc;
 }
 
